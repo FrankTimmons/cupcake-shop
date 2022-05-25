@@ -7,3 +7,11 @@
   color: green;
   font-weight: 100;
 }
+
+img {
+  max-width: 20%;
+}
+
+body {
+  background-color: lightskyblue;
+}
