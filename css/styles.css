@@ -13,24 +13,41 @@ h2 {
 }
 
 .us {
+  width: 400px;
+  padding: 10px;
+  border: solid black 20px;
+  box-sizing: border-box;
   font-weight: 600;
   color: purple;
   font-family: unset;
-  width: 400px;
-  margin-top: 200px;
+  margin-top: 225px;
+  background-color: pink;
 }
 
 .column {
-  width: 275px;
-  height: 200px;
-  float: right;
+  width: 10%;
+  padding: 10px; 
+  border: solid black;
+  border-width: 10px;
   background-color: wheat;
+  float: right;
+  box-sizing: border-box;
 }
 
 .sidebar {
-  width: 250px;
+  padding: 10px;
+  border: 20px transparent;
+  max-width: 250px;
   float: left;
-  background-color: yellow;
+  background: linear-gradient(to bottom, red, orange , yellow, green, cyan, blue, violet);
+  box-sizing: border-box;
+}
+
+.module {
+  background: #222;
+  color: white;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 img {
