@@ -11,7 +11,7 @@
 
 ## Description
 
-_This website allows users to redirect to tabs of individual cupcakes. Users can also find linked wiki pages relating to terminology used on main page (cupcake-shop.html)_
+_This website allows users to redirect to tabs of individual cupcakes. Users can also find linked wiki pages relating to terminology used on main page (index.html)_
 
 ## Setup/Installation Requirements
 
