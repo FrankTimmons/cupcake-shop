@@ -16,10 +16,26 @@ h2 {
   font-weight: 600;
   color: purple;
   font-family: unset;
+  width: 400px;
+  margin-top: 200px;
+}
+
+.column {
+  width: 275px;
+  height: 200px;
+  float: right;
+  background-color: wheat;
+}
+
+.sidebar {
+  width: 250px;
+  float: left;
+  background-color: yellow;
 }
 
 img {
   max-width: 20%;
+  float: left;
 }
 
 body {
