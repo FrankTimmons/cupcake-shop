@@ -12,6 +12,12 @@ h2 {
   font-weight: 100;
 }
 
+.us {
+  font-weight: 600;
+  color: black;
+  font-family: unset;
+}
+
 img {
   max-width: 20%;
 }
