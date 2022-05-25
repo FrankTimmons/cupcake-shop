@@ -25,6 +25,6 @@ _{This website allows users to redirect to tabs of individual cupcakes. Users ca
 
 ## License
 
-[MIT](cupcake-shop/LICENSE)
+[MIT](/LICENSE)
 
 Copyright (c) 2022 Frank Timmons, Alex Shevlin, Jonathan Lu
