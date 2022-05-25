@@ -38,7 +38,7 @@ h2 {
   padding: 10px;
   border: 20px transparent;
   max-width: 250px;
-  float: left;
+  margin: auto;
   background: linear-gradient(to bottom, red, orange , yellow, green, cyan, blue, violet);
   box-sizing: border-box;
 }
@@ -50,9 +50,21 @@ h2 {
   box-sizing: border-box;
 }
 
+.header1 {
+  background: white;
+  width: 50%;
+  padding: 10px;
+  border: 10px solid purple;
+  text-align: center;
+  margin: auto;
+  display: block;
+  margin-bottom: 20px;
+}
+
 img {
+  display: block;
+  margin: auto;
   max-width: 20%;
-  float: left;
 }
 
 body {
