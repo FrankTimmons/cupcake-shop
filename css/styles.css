@@ -1,3 +1,7 @@
+h2 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 80;
+}
 .flashy {
   color: red;
   font-style: italic;
@@ -14,4 +18,9 @@ img {
 
 body {
   background-color: lightskyblue;
+  font-family: arial;
+}
+
+a:hover {
+  color: blue;
 }
